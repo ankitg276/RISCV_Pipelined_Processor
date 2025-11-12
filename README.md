@@ -1,1 +1,0 @@
-![alt text](RISCV_Pipeline_Arcitecture-1.png)
